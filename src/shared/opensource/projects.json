@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "The Care Alliances",
+      "createdAt": "2023-04-13T04:18:19Z",
+      "url": "https://github.com/AmitKumarKesharwani/thecarealliances",
+      "description": "Care Alliances is a PHP-based platform designed to streamline healthcare collaborations, offering secure data management and efficient communication for better patient care.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Bagisto",
+      "createdAt": "2022-03-13T20:41:33Z",
+      "url": "https://github.com/AmitKumarKesharwani/bagisto",
+      "description": "Bagsito is a customized eCommerce platform designed for seamless bag shopping. Built with Laravel, it features a user-friendly interface, secure payments, and efficient order management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Krayin CRM",
+      "createdAt": "2022-02-11T14:50:20Z",
+      "url": "https://github.com/AmitKumarKesharwani/laravel-crm",
+      "description": "Krayin CRM is an open-source customer relationship management solution built on Laravel. I customized and implemented Krayin CRM to enhance business workflows, streamline customer interactions, and improve sales management. This project showcases my expertise in Laravel, CRM customization, and efficient business process automation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
+}
